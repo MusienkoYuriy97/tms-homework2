@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="975e160f-01d3-4fba-b602-71c691c53c0e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../tms-homework1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../tms-homework1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TMSCHomeWork2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tms-homework2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise8_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise8_2.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1nPYoj6kliuFcN6s17dtKieXbKv" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../tms-homework1" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Exercise8_2">
+    <configuration name="Exercise1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise1" />
+      <module name="tms-homework2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise2" />
+      <module name="tms-homework2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise5" />
+      <module name="tms-homework2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise8_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise8_1" />
+      <module name="tms-homework2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise8_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise8_2" />
+      <module name="tms-homework2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Exercise8_2" />
+        <item itemvalue="Application.Exercise8_1" />
+        <item itemvalue="Application.Exercise5" />
+        <item itemvalue="Application.Exercise2" />
+        <item itemvalue="Application.Exercise1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="975e160f-01d3-4fba-b602-71c691c53c0e" name="Default Changelist" comment="" />
+      <created>1611293369111</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611293369111</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="171" y="159" key="FileChooserDialogImpl" timestamp="1618046314779">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="171" y="159" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1618046314779" />
+    <state x="171" y="167" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1611590989341" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1618047918660">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1618047918660" />
+    <state width="1168" height="208" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1611590990338" />
+    <state width="969" height="218" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1611319952680" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1618047918659">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1618047918659" />
+    <state width="1168" height="208" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1611590990338" />
+    <state width="969" height="218" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1611319952680" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1618047918659">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1618047918659" />
+    <state width="1168" height="208" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1611590990338" />
+    <state width="969" height="218" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1611319952679" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1618047918659">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1618047918659" />
+    <state width="1168" height="208" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1611590990338" />
+    <state width="969" height="218" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1611319952680" />
+    <state x="1138" y="941" key="com.intellij.ide.util.TipDialog" timestamp="1611315658342">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1138" y="941" key="com.intellij.ide.util.TipDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1611315658342" />
+    <state x="768" y="531" key="run.anything.popup" timestamp="1611319338613">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="768" y="531" key="run.anything.popup/0.0.2560.1440@0.0.2560.1440" timestamp="1611319338613" />
+    <state x="1105" y="761" width="672" height="678" key="search.everywhere.popup" timestamp="1611319132643">
+      <screen x="0" y="0" width="2560" height="1440" />
+    </state>
+    <state x="1105" y="761" width="672" height="678" key="search.everywhere.popup/0.0.2560.1440@0.0.2560.1440" timestamp="1611319132643" />
+  </component>
+</project>
